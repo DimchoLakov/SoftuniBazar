@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'whywherewhatsoftunibazarapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6BDBE7A2229745EB98ED37A6B89A0C35 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2DACCA95B1E947DC8DE4BA716BC766EF }}
           package: .
