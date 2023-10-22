@@ -1,1 +1,1 @@
-# SoftuniBazar
+# SoftuniBazar - why_where_what
